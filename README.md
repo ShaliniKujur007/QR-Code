@@ -148,7 +148,7 @@ Possible future enhancements include:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/QR-Code.git
+https://github.com/ShaliniKujur007/QR-Code.git
 ```
 
 ## Navigate to the project folder
